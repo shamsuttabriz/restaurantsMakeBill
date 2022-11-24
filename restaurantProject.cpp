@@ -1,12 +1,7 @@
 /**
-Course: 03
-Theory Exam: 01
 Project Name: Restaurant Bill Management
 Name: Md.shamsut tabriz
 Email: shamsuttabriz.md@gmail.com
-
-How can I improve and improve my code?
-It would be nice to have some advice on that.
 */
 
 
